@@ -23,6 +23,6 @@ public class TestRunner {
     public static void runStringExerciseTests() {
         LoggerUtil.info("Testing String exercises!");
         StringsTester.testStringExcercises();
-        LoggerUtil.info("All String exercises passed!");
+        LoggerUtil.info("String exercise tests complete");
     }
 }
