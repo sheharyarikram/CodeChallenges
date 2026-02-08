@@ -15,7 +15,7 @@ public class PlayGroundInitializer {
     }
 
     public static void executeTestHarness() {
-        LoggerUtil.info("Executing test harness!");
+        LoggerUtil.info("Executing test harness");
         TestRunner.runTestRunner(ExerciseTypeEnum.ALL);
     }
 
